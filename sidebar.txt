@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gaj-x-ymnk:home|Door43 (gaj-x-ymnk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gaj-x-ymnk|d43-gaj-x-ymnk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gaj-x-ymnk/archive/master.zip|d43-gaj-x-ymnk.zip]]
+
+**Recent Changes**
+{{changes>ns = gaj-x-ymnk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gaj-x-ymnk|Ethnologue data]]
+
